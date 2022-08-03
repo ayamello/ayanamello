@@ -3,7 +3,7 @@
 </div>
 
 🌴 I'm Ayana, I live in Bahia - BR   
-📚 I'm systems development technician and, currently, I'm in the last module of the full stack development course at Kenzie Academy Brazil. 
+📚 I'm Systems Development Technician, Fullstack Developer and, currently, I'm studying B.Sc. in Computer Science.
 
 <h5> 
   💻 I'm passionate about the idea of solving problems and transforming lives through technology
